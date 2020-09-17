@@ -1,3 +1,14 @@
+# API-Platform admin
+
+![api-platform-admin](./docs/api-platform-admin.png?raw=true "api-platform-admin")
+
+## Symfony bundles
+
+- [Books and Reviews](http://github.com/noud/api-platform-book-review-bundle)
+- [Products and Offers](http://github.com/noud/api-platform-product-offer-bundle)
+- [Users](http://github.com/noud/api-platform-user-bundle)
+- [Utils](http://github.com/noud/api-platform-util-bundle)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
