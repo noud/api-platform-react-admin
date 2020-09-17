@@ -1,6 +1,6 @@
-# API-Platform admin
+# API-Platform React admin
 
-![api-platform-admin](./docs/api-platform-admin.png?raw=true "api-platform-admin")
+![api-platform-react-admin](./docs/api-platform-react-admin.png?raw=true "api-platform-react-admin")
 
 ## Symfony bundles
 
